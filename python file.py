@@ -1,4 +1,4 @@
-#Part 1: Fetching all the files and folders 
+ #Part 1: Fetching all the files and folders 
 import os
 from collections import OrderedDict
 from datetime import datetime
